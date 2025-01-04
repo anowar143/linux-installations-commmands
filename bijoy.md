@@ -1,52 +1,5 @@
-# Two way Install bangla keyboard
 
-### One Unijoy Second Bijoy They are same
-##### Unijoy is best for linux, ok I,m going to show 2 method install Unijoy or Bijoy 
-
-
-## Method 1 Install Unijoy
-##### In Terminal ([Ctrl] + [Alt] + T) run following command:
-
-```
-sudo apt install ibus-m17n m17n-db ibus-gtk
-```
-##### Check if Unijoy is installed using the below command:
-
-```
-sudo dpkg -L m17n-db | grep unijoy
-```
-Now type and enter the following command:
-
-```
-ibus-daemon -xdr
-```
-
-#####
-Update: Ubuntu 20.04 LTS
-
-```
-    Open “Settings“, then,
-    Click “Region & Language“
-    Click “+” sign
-    Click “three dot“, then “Other” and then Click“ “ then Bangla“ “Bengali (unijoy (m17n))“
-    Finally Click “Add“
-
-Use [super] + [space] to change keyboard layout.
-```
-
-#### Restart the system
-
-##### Go to Setting/Keyboard/Input/Bangla/Bangla(bn-unijoy(m17)) Add
-
-
-##### এখন যেকোন প্রোগ্রাম থেকেই ctrl + space bar চাপ দিয়ে বাংলা লেখা শুরু করতে পারবেন। লেখার শুরুতেই টাস্কবারে কি-বোর্ড এর মত একটি আইকন দেখতে পাবেন যেখানে Bangla(bn-unijoy(m17)) কথাটি লেখা আছে। এটিতে ক্লিক করেও কি-বোর্ড পরিবর্তন করতে পারবেন।
-
-```
-
-
-```
-
-## Method  2 Install Bijoy
+## Install Bijoy
 ### Step 1
 
 ```
@@ -86,7 +39,7 @@ sudo chmod 777 /var/lib/dpkg/info/m17n-db.list
 
 ### Step 4
 
-#### Ubuntu : go to "Startup Applications" and open it.
+#### Linux : Find out and go to "Startup Applications" on your system and open it.
 ##### In the pop box Click on "Add" and fill the empty according to the below.
 
 ```
@@ -98,7 +51,7 @@ Comment: Start IBus daemon when Gnome starts
 ##### Restart your System
 
 ### Step 5
-#### Go to Unziped folder and install following files manualy by click on them one by one
+#### Go to Unziped folder and find out "SutonnyMJ" Folder, Then install following files manualy by click on them one by one
 ```
 install SutonnyMJ-Bold.ttf, SutonnyMJ-Bolditalic.ttf, SutonnyMJ-Italic.ttf, SutonnyMJ-Regular.ttf
 ```
