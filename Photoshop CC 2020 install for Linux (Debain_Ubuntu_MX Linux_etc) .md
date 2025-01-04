@@ -91,9 +91,7 @@ cd photoshop
 
 ![image](Images/English.png)
 ---
-```bash
-english
-```
+
 #### Type "all" Enter
 
 
@@ -113,7 +111,7 @@ english
 
 ###### To
 
-![image](Images/wine10.png)
+![image](Images/wine10.webp)
 ---
 
 
