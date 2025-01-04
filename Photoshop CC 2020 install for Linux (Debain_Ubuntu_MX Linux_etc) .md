@@ -78,19 +78,19 @@ Y
 ```
 #### Hit Enter then Y etc.
 
-#### When show like following 
+#### When show like following  {Now write your user name "My usr name is 'Tryon' so need type it like below "}
 
 ```bash
 /home/your_username
 
 ```
-
-#### Now write your user name "My usr name is 'Tryon' so need type it like below "
+###### to
 
 ```bash
 /home/Tryon
 
 ```
+
 
 #### Some time will open a wine popup window there select Install the Enter
 
