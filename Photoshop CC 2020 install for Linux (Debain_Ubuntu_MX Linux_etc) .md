@@ -54,23 +54,21 @@ cd photoshop
 
 #### After donlowad complited (Enter: 2 for install Photoshop:)
 
-```bash
-1. Check if your computer meets the reuirments to run Photoshop
-2. Install Photoshop
-3. Install Adobe Camera Raw v12
-4. configure Wine
-5. Uninstall Photoshop
-6. Exit the program
+![image](Images/os.png)
+---
 
-```
 #### Type "2" then hit Enter
 ```bash
 2
 ```
-#### Now show some Operating System like Debain, Ubuntu, etc. Choise your os system Type "Require Number" then hit Enter
-```bash
-1 or any
-```
+#### Now show some Operating System like Debain, Ubuntu, etc. Choise your os system Type "Require Number" then hit Enter. 
+![image](Images/os.png)
+---
+#### My os Debain so need to type here 1
+
+![image](Images/1.png)
+
+
 #### Type "Y" then hit Enter
 
 ```bash
@@ -80,16 +78,13 @@ Y
 
 #### When show like following  {Now write your user name "My usr name is 'Tryon' so need type it like below "}
 
-```bash
-/home/your_username
+![image](Images/usr.png)
+---
 
-```
-###### to
+###### To
 
-```bash
-/home/Tryon
-
-```
+![image](Images/tryon.png)
+---
 
 
 #### Some time will open a wine popup window there select Install the Enter
@@ -100,12 +95,24 @@ Y
 
 #### During Installation need some selections and configurations like language select "english/spanise" etc
 
+#### Type "englilsh" Enter
+
+![image](Images/English.png)
+---
 ```bash
 english
 ```
-```bash
-all
-```
+#### Type "all" Enter
+
+
+![image](Images/all.png)
+---
+
+###### To
+
+![image](Images/all1.png)
+---
+
 
 ####⚠️ If Photoshop file not save. then try to export as file_name.psd Done. After save file will you see there are all layer seperatly, Don't worry open the main psd file here all ok.⚠️
 
@@ -120,22 +127,4 @@ Before starting any project try to Save the file first. In case it doesn't let y
 #### After Completed Installation if not work photoshop  "clone stamp tool"  to define source point by click  "atl+mouse_left"   you need to change "window manager tweaks" behover on your linux settings, because window behover shortcut override to photoshop Atl keyword.
 
 
-## Errors or bugs:
-If make not works, copy and paste this in terminal in the current folder:
-
-```bash
-gcc -ggdb3 -O0 -std=c99 -Wall -Werror -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wshadow -pedantic -w -o Photoshop2020 Photoshop.c ./scripts/Requirements.c ./scripts/Installer.c ./scripts/Cameraraw.c ./scripts/Configure.c ./scripts/Uninstaller.c ./Photoshop2020
-```
-- If the program has an error in somewhere of installer, first uninstall Photoshop.
-
-- I have installed Wine but my system does not recognize it, why? If you use any shell different than the default provided by system, you need to add the PATH of the path of installation of WINE.
-
-- If your distro is not compatible you have to modify the program for skip the WineHQ installation, therefore you will have to install WineHQ in the correct way according to your distro and with this, you can use the installation on whatever distro.
-
-## New features:
-If you want to try the staging version of Wine, Adobe Camera Raw has not worked for me.
-
-## Notes:
-- I use getchar in some lines for clear stdin and doing that a command can be read by scanf.
-- The main file is Photoshop.c
 
