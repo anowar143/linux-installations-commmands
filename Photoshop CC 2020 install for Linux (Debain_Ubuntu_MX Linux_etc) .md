@@ -29,10 +29,10 @@ If you are new in Linux and don't know some commands, you can watch this video (
 ## Installation steps:
 
 ```bash
-mkdir Project
+mkdir Adobe
 ```
 ```bash
-cd Project
+cd Adobe
 ```
 
 ```bash
@@ -66,14 +66,21 @@ make
 6. Exit the program
 
 ```
-
+#### Type "2" then hit Enter
 ```bash
 2
 ```
+#### Choise your os system Type "Require Number" then hit Enter
+```bash
+1 or any
+```
+#### Type "Y" then hit Enter
 
 ```bash
-yes
+Y
 ```
+#### Hit Enter then Y etc.
+
 
 #### During Installation need some selections and configurations like language select "english/spanise" etc
 
