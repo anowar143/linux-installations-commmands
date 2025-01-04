@@ -94,9 +94,8 @@ Y
 
 #### Some time will open a wine popup window there select Install the Enter
 
-```
-Cancel             Install
-```
+![image](Images/Wine-Mono-Installer.png)
+---
 
 
 #### During Installation need some selections and configurations like language select "english/spanise" etc
