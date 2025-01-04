@@ -47,9 +47,6 @@ git clone https://gitlab.com/csmarckitus1/photoshop.git
 cd photoshop
 
 ```
-```bash
-make
-```
 
 ```bash
 ./Photoshop2020
@@ -70,7 +67,7 @@ make
 ```bash
 2
 ```
-#### Choise your os system Type "Require Number" then hit Enter
+#### Now show some Operating System like Debain, Ubuntu, etc. Choise your os system Type "Require Number" then hit Enter
 ```bash
 1 or any
 ```
@@ -80,6 +77,26 @@ make
 Y
 ```
 #### Hit Enter then Y etc.
+
+#### When show like following 
+
+```bash
+/home/your_username
+
+```
+
+#### Now write your user name "My usr name is 'Tryon' so need type it like below "
+
+```bash
+/home/Tryon
+
+```
+
+#### Some time will open a wine popup window there select Install the Enter
+
+```
+Cancel             Install
+```
 
 
 #### During Installation need some selections and configurations like language select "english/spanise" etc
@@ -91,7 +108,10 @@ english
 all
 ```
 
-
+#### If Photoshop file not save. then try to export as file_name.psd Done. After save file will you see there are all layer seperatly, Don't worry open the main psd file here all ok.
+```
+If Photoshop file not save. then try to export as file_name.psd Done. After save file will you see there are all layer seperatly, Don't worry open the main psd file here all ok.
+```
 
 #### Important things during the installation:
 During the installer you will see for a moment that Windows 7 is selected by default, change it to Windows 10.
