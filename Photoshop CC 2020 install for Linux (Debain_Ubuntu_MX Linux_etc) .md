@@ -108,10 +108,8 @@ english
 all
 ```
 
-#### If Photoshop file not save. then try to export as file_name.psd Done. After save file will you see there are all layer seperatly, Don't worry open the main psd file here all ok.
-```
-If Photoshop file not save. then try to export as file_name.psd Done. After save file will you see there are all layer seperatly, Don't worry open the main psd file here all ok.
-```
+####⚠️ If Photoshop file not save. then try to export as file_name.psd Done. After save file will you see there are all layer seperatly, Don't worry open the main psd file here all ok.⚠️
+
 
 #### Important things during the installation:
 During the installer you will see for a moment that Windows 7 is selected by default, change it to Windows 10.
