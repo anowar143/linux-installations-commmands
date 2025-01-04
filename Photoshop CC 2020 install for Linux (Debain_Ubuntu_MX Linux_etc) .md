@@ -62,20 +62,12 @@ cd photoshop
 2
 ```
 #### Now show some Operating System like Debain, Ubuntu, etc. Choise your os system Type "Require Number" then hit Enter. 
-![image](Images/os.png)
+![image](Images/choose.png)
 ---
 #### My os Debain so need to type here 1
 
 ![image](Images/1.png)
-
-
-#### Type "Y" then hit Enter
-
-```bash
-Y
-```
-#### Hit Enter then Y etc.
-
+---
 #### When show like following  {Now write your user name "My usr name is 'Tryon' so need type it like below "}
 
 ![image](Images/usr.png)
@@ -112,6 +104,18 @@ english
 
 ![image](Images/all1.png)
 ---
+
+
+#### When open a wine popup window there select Windows 7 to Windows 10 the Enter
+
+![image](Images/wine7.png)
+---
+
+###### To
+
+![image](Images/wine10.png)
+---
+
 
 
 ####⚠️ If Photoshop file not save. then try to export as file_name.psd Done. After save file will you see there are all layer seperatly, Don't worry open the main psd file here all ok.⚠️
